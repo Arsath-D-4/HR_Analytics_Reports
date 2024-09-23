@@ -36,16 +36,20 @@ Developed using DAX:
 - **Sick Leave Count**
 
 ### Measure Table
-Screenshot for DAX
+![Measure Table](https://github.com/Arsath-D-4/HR_Analytics_Reports/blob/main/Screenshots/Screenshot%201.png)
 
 ### Visualizations
 
 #### Area Charts
-- Presence % by Date
-- WFH % by Date
-- Sick Leave % by Date
+- **Presence % by Date**
+- ![Presence%](https://github.com/Arsath-D-4/HR_Analytics_Reports/blob/main/Screenshots/Screenshot%202.png)
 
-Screenshot for Visualization
+- **WFH % by Date**
+- ![WFH%](https://github.com/Arsath-D-4/HR_Analytics_Reports/blob/main/Screenshots/Screenshot%203.jpg)
+  
+- **Sick Leave % by Date**
+- ![Sick%](https://github.com/Arsath-D-4/HR_Analytics_Reports/blob/main/Screenshots/Screenshot%204.png)
+
 
 ## Key Takeaways
 
